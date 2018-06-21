@@ -1,0 +1,3 @@
+bpm to seconds conversion formula:
+
+60 / bpm = seconds per quarter note
